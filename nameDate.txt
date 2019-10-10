@@ -1,0 +1,6 @@
+The first person name is Mr. Suraj.
+His wife is Mrs. Sujita.
+His secretrary is Ms. Sushma.
+This person was born in 24 Jul 2008.
+We can also say that his date of birth is 24-07-2008 or 2008-07-24
+There is another person who was born on same day. He is Mr. Rohan.

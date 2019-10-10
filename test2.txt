@@ -1,0 +1,5 @@
+occurring in all situations it might turn out that in some other 
+corpus or context Chinese is a very unlikely word. But it is the 
+probability that makes it most likely that Chinese will occur 400 
+times in a million-word corpus. 
+We present ways to
